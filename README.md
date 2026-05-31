@@ -11,9 +11,7 @@
 
 Olá, me chamo Maycon, tenho atualmente 22 anos e moro no município de Amontada, Ceará – Brasil. Tenho conhecimentos na área de Front-End, considero-me júnior na área e estou cursando Full Stack através da escola Rocketseat e Amontada Valley. Gosto bastante desse mundo de letras coloridas. Sempre que tenho alguma dúvida, costumo perguntar e busco até obter uma resposta correta. Desse modo, aprimoro ainda mais meus conhecimentos.
 
-Priorizo a compreensão de como os sistemas operam, escalam e evoluem, em vez do simples ato de escrever código. Cada projeto é abordado com disciplina, consistência e curiosidade técnica.
-
-> Tenho interesse em trabalhar como desenvolvedor, criando interfaces simples, funcionais e bem feitas. Gosto de aprender na prática e ir evoluindo aos poucos, sempre tentando melhorar a forma como desenvolvo.
+> Priorizo a compreensão de como os sistemas operam, escalam e evoluem, em vez do simples ato de escrever código. Cada projeto é abordado com disciplina, consistência e curiosidade técnica.
 
 <br/>
 
