@@ -149,7 +149,10 @@ Olá, me chamo Maycon, tenho atualmente 22 anos e moro no município de Amontada
 </tr>
 </table>
 
+
 ***
+
+<img width="100%" height="auto" alt="212284158-e840e285-664b-44d7-b79b-e264b5e54825" src="https://github.com/user-attachments/assets/ba683d25-2bc0-4e80-aea9-f1fe22f14b13" />
 
 ### Streak de commits
 
