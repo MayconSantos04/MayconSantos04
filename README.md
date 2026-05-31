@@ -107,7 +107,7 @@ Priorizo a compreensão de como os sistemas operam, escalam e evoluem, em vez do
   <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MayconSantos04&layout=compact&bg_color=00000000&theme=tokyonight&hide_border=true&text_color=a6aec1" />
 </div>
 
-============================================================================
+=======================================================================================
 <p align="center">
   <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
   <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
