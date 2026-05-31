@@ -16,7 +16,9 @@ Olá, me chamo Maycon, tenho atualmente 22 anos e moro no município de Amontada
 <br/>
 
 <p align="center">
-  <img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/4d4f7be6-eab3-41a9-8566-010f1877e131" />
+  
+ <img width="100%" height="auto" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/c99b9a72-b4bd-4174-87e2-37d28b83e149" />
+
 </p>
 
 ---
@@ -108,19 +110,19 @@ Olá, me chamo Maycon, tenho atualmente 22 anos e moro no município de Amontada
 <hr/>
 
 <p align="center">
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
-  <img width="60" height="60" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/5bcd757c-6d73-4496-a851-9ba84e600fb5" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
+<img width="60" height="auto" alt="68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" src="https://github.com/user-attachments/assets/9730faab-25d9-4ecb-8412-8e22005f0707" />
 </p>
 
 <hr/>
@@ -143,7 +145,7 @@ Olá, me chamo Maycon, tenho atualmente 22 anos e moro no município de Amontada
 
 <td width="40%">
 
-<img width="300" alt="Imagem" src="https://github.com/user-attachments/assets/8f5c038e-6011-453d-b5df-0abca8e40e35" />
+<img width="100%" height="auto" alt="271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5" src="https://github.com/user-attachments/assets/531a5e84-aa73-4362-a628-9a8c838fff46" />
 
 </td>
 </tr>
@@ -160,15 +162,15 @@ Olá, me chamo Maycon, tenho atualmente 22 anos e moro no município de Amontada
   <img src="https://streak-stats.demolab.com?user=MayconSantos04&theme=transparent&hide_border=true&currStreakNum=fa4b00&sideNums=fa4b00&sideLabels=a6aec1&currStreakLabel=fa4b00&dates=fa4b00&ring=fa4b00&fire=fa4b00"/>
 </p>
 
-<img width="100%" height="auto" alt="212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a" src="https://github.com/user-attachments/assets/4c78144e-dacb-4a11-a938-fedf828460d2" />
+<img width="100%" height="auto" alt="212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a" src="https://github.com/user-attachments/assets/866567d8-9a13-4386-a239-4b31c5cb8432" />
 
 <p align="center">
-  <img width="1354" height="397" alt="221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470" src="https://github.com/user-attachments/assets/6503aebf-b251-40cb-bb02-059aa8adba9d" />
+  <img width="1354" height="397" alt="221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470" src="https://github.com/user-attachments/assets/b4778610-4e10-4374-bcdc-4c402458f75f" />
 </p>
 
 <h2 align="center">Sigam-me os bons!</h2>
 
-<h3 align="center">Fique à vontade para me chamar nas redes sociais abaixo 👇</h3>
+<h3 align="center">Fique à vontade para me chamar nas redes sociais abaixo.</h3>
 
 <br/>
 <p align="center">
